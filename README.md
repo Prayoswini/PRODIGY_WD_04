@@ -7,13 +7,19 @@
 - HTML
 - CSS
 - JavaScript
+## 🧩 Sections Included:
+- 🏠 **Home** – Brief introduction with hero banner  
+- 👩‍💻 **About** – Personal introduction and background  
+- 🛠️ **Skills** – Technical skillset  
+- 💼 **Services** – What I offer as a web developer  
+- 📂 **Projects** – Featured work with GitHub/live links  
+- 📬 **Contact** – Form or social media links for reaching out
+  ## 🎯 Features:
+- Fully responsive design  
+- Smooth scroll and interactive UI  
+- Downloadable resume 
+- Clean and modern layout  
 
-## 💼 Sections Included:
-- About Me
-- Skills
-- Projects with GitHub links
-- Contact Form
-- Downloadable Resume
   ## 📸 Screenshot
 
 ![Portfolio Preview](Task4.png)
